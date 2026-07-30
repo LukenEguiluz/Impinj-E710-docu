@@ -1,0 +1,9 @@
+# Dependencias
+
+Ninguna dependencia externa. Solo Python 3 (stdlib).
+
+Opcional para desarrollo:
+
+```text
+# (vacío a propósito)
+```
